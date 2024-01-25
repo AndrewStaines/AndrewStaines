@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Andrew William Staines</h1>
-<h3 align="center">Web Developer | AI enthusiast </h3>
+<h1 align="center">Andrew William Staines</h1>
 
 
-## 🌐 Socials:##
+## 🌐 Socials:
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Andrewwilliamstaines) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AndrewStaine_)
 
