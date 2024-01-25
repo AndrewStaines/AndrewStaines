@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew William Staines</h1>
-<h3 align="center">Web Developer | AI enthusiast |</h3>
+<h3 align="center">Web Developer | AI enthusiast </h3>
 
 
 ## 🌐 Socials:##
